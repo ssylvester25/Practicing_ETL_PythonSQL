@@ -1,4 +1,5 @@
 # Goal: Changing the names of the row values and grouping the values (practicing SQL?)
+# Credit for the data extraction practice: https://catalog.data.gov/dataset/u-s-chronic-disease-indicators
 
 import pandas as pd 
 import sqlite3 as sql

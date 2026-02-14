@@ -1,3 +1,5 @@
+# Credit for the data extraction practice: https://catalog.data.gov/dataset/u-s-chronic-disease-indicators
+
 import pandas as pd
 import sqlite3
 
